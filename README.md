@@ -31,7 +31,7 @@ Generative large language models like Gemma 2B, combined with few-shot learning,
 ## Visual Report
 
 🌟 Below is a visual report summarizing the experiment's results:
-[Gemma report](GemmaReport.png)
+![Gemma report](GemmaReport.png)
 
 ## Access the Code
 
