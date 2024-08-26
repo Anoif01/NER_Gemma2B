@@ -36,7 +36,7 @@ Generative large language models like Gemma 2B, combined with few-shot learning,
 
 ## Access the Code
 
-🌟 The code used for this experiment is available here: [GitHub Repository Link](https://lnkd.in/ebtTafNn).
+🌟 The code used for this experiment is available here: [Kaggle Link](https://www.kaggle.com/code/xiaohualu/perform-gemma2b-ner-by-zero-one-fewshot/edit/run/167873631).
 
 ## License
 
